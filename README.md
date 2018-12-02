@@ -9,3 +9,4 @@ label.py
 #### 卷两层积神经网络
 convolutional.py
 #### softmax 回归多类分类模型
+softmax_regression.py
