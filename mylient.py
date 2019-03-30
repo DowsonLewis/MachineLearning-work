@@ -15,7 +15,7 @@ def get_file_content(filePath):
         return fp.read()
  
 """ 图片为存储在本地的图片，格式不限 """
- image = get_file_content('180806-202532.png')
+image = get_file_content('180806-202532.png')
  
 """ 调用通用物体识别 """
 print (client.advancedGeneral(image));
