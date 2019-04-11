@@ -5,7 +5,7 @@
  2. cnn_based_image_retrievel.ipynb	
  3. image_retrieval_deep_ranking.ipynb
 
-* linear.py、mnist_nn.py 是回归和分类的demo
+* linear.py、mnist_nn.py 是回归和分类（MNIST数据库）的demo
 * API.py是基于Kears的分类模型
 
 * 聊天机器人与图像识别.py是基于微信库的，文本聊天是基于图灵机器人，图像识别是基于百度图像识别，都是通过API调用
